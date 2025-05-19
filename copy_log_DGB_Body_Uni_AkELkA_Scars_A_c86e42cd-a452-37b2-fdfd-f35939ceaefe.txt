@@ -1,0 +1,247 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+   Mon 05/19/2025  6:50:34.82 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\meta.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\meta.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 0 
+ 
+[LOG] Total files found across all folders: 2 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe to Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using destination: Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:50:38 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\meta.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :       705       705         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:50:38 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Editor\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe to "Editor\Mods"\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using destination: Editor\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:50:40 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Editor\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:50:40 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe to Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using destination: Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:50:42 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\meta.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :     2.6 k     2.6 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:50:42 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe to Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[DEBUG] Using destination: Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:50:43 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:50:43 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_Scars_A_c86e42cd-a452-37b2-fdfd-f35939ceaefe 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 2 
+[SUMMARY] Total files successfully copied: 4 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
