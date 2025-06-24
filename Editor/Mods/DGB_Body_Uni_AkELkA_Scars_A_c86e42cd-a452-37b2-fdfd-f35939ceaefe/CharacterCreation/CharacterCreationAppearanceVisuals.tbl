@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19d">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_26" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fdb6da84-8b91-439c-8ea9-03f71dff7ba2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Horns" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="d1bb5d66-e889-491d-a612-59627818d666" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h68a65025gcc7cg8023gf6bage10e059fcfc4" version="2" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_V13_Leg_Test" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
